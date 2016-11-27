@@ -11,7 +11,7 @@ DB_USERNAME= youruserdatabase
 DB_PASSWORD= yourpassdatabase
 - migrate database in database\migrations\2016_11_20_110016_crate_items_table.php using `php artisan migrate`
 - run `php artisan serve`
-- open browser and open link http://localhost:8000
+- open browser and open link `http://localhost:8000`
 
 Thank's
 ---
