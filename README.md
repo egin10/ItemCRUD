@@ -14,5 +14,3 @@ DB_PASSWORD= yourpassdatabase
 - open browser and open link `http://localhost:8000`
 
 Thank's
----
-egin10
